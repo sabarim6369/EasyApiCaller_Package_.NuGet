@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EasyApiCall</id>
+    <version>1.0.1</version>
+    <authors>Sabari M</authors>
+    <readme>README.md</readme>
+    <description>Easy single-line API caller for .NET backend</description>
+    <repository type="git" commit="c763541a379891f98d1ed6f6ffc264d4fba34d9f" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/README.md" buildAction="None" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.dll" target="lib\net6.0\EasyApiCaller.dll" />
+    <file src="C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.xml" target="lib\net6.0\EasyApiCaller.xml" />
+    <file src="C:\Users\User\Documents\NuGetPackage\EasyApiCaller\README.md" target="content\README.md" />
+    <file src="C:\Users\User\Documents\NuGetPackage\EasyApiCaller\README.md" target="contentFiles\any\net6.0\README.md" />
+  </files>
+</package>

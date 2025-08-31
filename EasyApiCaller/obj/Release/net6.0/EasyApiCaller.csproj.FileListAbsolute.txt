@@ -1,0 +1,14 @@
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.deps.json
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.dll
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.pdb
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\bin\Release\net6.0\EasyApiCaller.xml
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.AssemblyInfo.cs
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.sourcelink.json
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.dll
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\refint\EasyApiCaller.dll
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.xml
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\EasyApiCaller.pdb
+C:\Users\User\Documents\NuGetPackage\EasyApiCaller\obj\Release\net6.0\ref\EasyApiCaller.dll

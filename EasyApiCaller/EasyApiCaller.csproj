@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>EasyApiCall</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Sabari M</Authors>
+    <Company>MyCompany</Company>
+    <Description>Easy single-line API caller for .NET backend</Description>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+
+
+</Project>
